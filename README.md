@@ -23,3 +23,30 @@ Each of these contributions has its own section in the paper. The sections are l
 <p align="center">
 <img src="https://github.com/Western-OC2-Lab/Signal-Processing-for-Machine-Learning/blob/main/content_tree.png" width="700" height="700" border="70"/>
 </p>
+
+## Contact Information
+For all inquiries or collaboration opportunities please contact: <br>
+
+Email : saburakh@uwo.ca or Abdallah.Shami@uwo.ca <br>
+Github: [SulAburakhia](https://github.com/SulAburakhia) or [Western OC2 Lab](https://github.com/Western-OC2-Lab) <br>
+Google Scholar: [OC2 Lab](https://scholar.google.com.eg/citations?user=oiebNboAAAAJ&hl=en); [Sulaiman Aburakhia](https://scholar.google.com/citations?user=8x-pPSYAAAAJ&hl=en)
+
+
+
+
+## Citation
+
+If you find this repository useful in your research, please cite as:
+
+Sulaiman Aburakhia, Abdallah Shami and George K. Karagiannidis, "On the Intersection of Signal Processing and Machine Learning: A Use Case-Driven Analysis
+Approach," arXiv:2403.17181, March, 2024.
+
+```
+@ARTICLE{9855510,
+  author={Aburakhia, Sulaiman A. and Shami, Abdallah and Karagiannidis, George K.},
+  journal={ArXiv}, 
+  title={On the Intersection of Signal Processing and Machine Learning: A Use Case-Driven Analysis Approach}, 
+  year={2024},
+  doi={arXiv:2403.17181}}
+```
+

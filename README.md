@@ -20,5 +20,5 @@ The paper, through its integrated-article approach, addresses the  intersection 
 </ul>
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1415604934674-561df9abf539?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2772&q=80" width="100" height="100" border="10"/>
+<img src="https://raw.githubusercontent.com/Western-OC2-Lab/Signal-Processing-for-Machine-Learning/71d338d0123e816bfc4c108c7030f789ed663acb/content_tree.png" width="100" height="100" border="10"/>
 </p>

@@ -32,7 +32,7 @@ Github: [SulAburakhia](https://github.com/SulAburakhia) or [Western OC2 Lab](htt
 Google Scholar: [OC2 Lab](https://scholar.google.com.eg/citations?user=oiebNboAAAAJ&hl=en); [Sulaiman Aburakhia](https://scholar.google.com/citations?user=8x-pPSYAAAAJ&hl=en)
 
 
-
+# Pre-print is available  [here](https://arxiv.org/abs/2403.17181). <br>
 
 ## Citation
 

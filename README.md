@@ -21,7 +21,7 @@ The paper, through its integrated-article approach, addresses the  intersection 
 
 Each of these contributions has its own section in the paper. The sections are logically grouped into four parts. For reader convenience, the visual representation below shows various sections of the paper grouped under each part. Although these parts are organized to build knowledge progressively, they are written in a self-contained manner, allowing for selective reading based on interest or need.
 <p align="center">
-<img src="https://github.com/Western-OC2-Lab/Signal-Processing-for-Machine-Learning/blob/main/content_tree.png" width="700" height="700" border="70"/>
+<img src="https://github.com/Western-OC2-Lab/Signal-Processing-for-Machine-Learning/blob/main/content_tree.png" width="700" height="500" border="70"/>
 </p>
 
 # Pre-print is available  [here](https://arxiv.org/abs/2403.17181). <br>

@@ -19,6 +19,7 @@ The paper, through its integrated-article approach, addresses the  intersection 
 <li> Introducing this public repository of signal processing.
 </ul>
 
+Each of these contributions has its own section in the paper. The sections are logically grouped into four parts. For reader convenience, the visual representation below shows various sections of the paper grouped under each part. Although these parts are organized to build knowledge progressively, they are written in a self-contained manner, allowing for selective reading based on interest or need.
 <p align="center">
-<img src="https://raw.githubusercontent.com/Western-OC2-Lab/Signal-Processing-for-Machine-Learning/71d338d0123e816bfc4c108c7030f789ed663acb/content_tree.png" width="100" height="100" border="10"/>
+<img src="https://github.com/Western-OC2-Lab/Signal-Processing-for-Machine-Learning/blob/main/content_tree.png" width="700" height="700" border="70"/>
 </p>

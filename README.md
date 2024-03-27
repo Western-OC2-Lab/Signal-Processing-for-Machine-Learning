@@ -2,7 +2,7 @@
 The rapid advancements in sensing and measurement open the door for a wide range of signal-based applications across various fields. Moreover, the development of computing technologies and the rise of the Internet of Things (IoT) have paved the way to leverage machine learning (ML) within signal-based applications, offering new insights and achieving unprecedented levels of accuracy and efficiency. This merge between signal processing and ML is expected to play a major role in the next generations of sensor-enabled systems across various areas (D. K. Iakovidis *et al.*, 2022). Thus, the integration of signal processing pipelines into ML models represents a critical intersection in developing the next generations of sensor-enabled systems, motivating the research community to address the role of signal processing in ML. 
 This repository serves as a platform for posting a diverse collection of Python codes for signal processing that are relevant to signal-based ML applications. The codes facilitate various operations within a typical signal processing pipeline (pre-processing, processing, and application). The repository is associated with the paper entitled: <br>
 
-## [On the Intersection of Signal Processing and Machine Learning: A Use Case-Driven Analysis Approach](https://arxiv.org/abs/2403.17181) <br>
+# [On the Intersection of Signal Processing and Machine Learning: A Use Case-Driven Analysis Approach](https://arxiv.org/abs/2403.17181) <br>
 
 The paper, through its integrated-article approach, addresses the  intersection of signal processing and ML by introducing the following contributions:
 <ul>

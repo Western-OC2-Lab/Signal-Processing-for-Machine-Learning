@@ -39,7 +39,7 @@ Google Scholar: [OC2 Lab](https://scholar.google.com.eg/citations?user=oiebNboAA
 If you find this repository useful in your research, please cite as:
 
 Sulaiman Aburakhia, Abdallah Shami and George K. Karagiannidis, "On the Intersection of Signal Processing and Machine Learning: A Use Case-Driven Analysis
-Approach," arXiv:2403.17181, March, 2024.
+Approach," arXiv:2403.17181, March 2024.
 
 ```
 @ARTICLE{9855510,

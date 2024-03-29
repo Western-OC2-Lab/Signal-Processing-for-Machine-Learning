@@ -30,7 +30,7 @@ Each of these contributions has its own section in the paper. The sections are l
 For all inquiries or collaboration opportunities please contact: <br>
 
 Email : saburakh@uwo.ca or Abdallah.Shami@uwo.ca <br>
-Github: [SulAburakhia](https://github.com/SulAburakhia) or [Western OC2 Lab](https://github.com/Western-OC2-Lab) <br>
+Github: [SulAburakhia](https://github.com/SulAburakhia); [Western OC2 Lab](https://github.com/Western-OC2-Lab) <br>
 Google Scholar: [OC2 Lab](https://scholar.google.com.eg/citations?user=oiebNboAAAAJ&hl=en); [Sulaiman Aburakhia](https://scholar.google.com/citations?user=8x-pPSYAAAAJ&hl=en)
 
 
